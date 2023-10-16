@@ -19,5 +19,11 @@ public class RightClick {
         actions.moveToElement(link).build().perform();
         //actions.dragAndDrop(element, link).build().perform();  erajin elementov te inch piti texapoxenq isk erkrordov te ur
         // actions.clickAndHold(element).moveToElement(link).release().build().perform(); click es anum elementi vra u klavish@ ches toxnum vercnum es element@ u tanum urish tex u toxnum enq click@ heto havaqum es sax irar het u dnum
+        // actions.doubleClick(element);
+        // actions.contextClick(element);
+        // Action action = action.clickAndHold(element).moveToElement(link).release().build();
+        // action.perform();
+        // performic heto amen inch ashxatuma sovorakan dzevov
+
     }
 }
